@@ -1294,6 +1294,7 @@ const anzhiyu = {
 
       const nowCategorie = urlinfo.split("/")[2];
       $categoryBar.querySelector(`#${nowCategorie}`).classList.add("select");
+      
     }
   },
   topCategoriesBarScroll: function () {
