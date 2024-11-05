@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>2P系列插头端子一览表</title>
+      <link href="/2024/11/05/2P%E7%B3%BB%E5%88%97%E6%8F%92%E5%A4%B4%E7%AB%AF%E5%AD%90%E4%B8%80%E8%A7%88%E8%A1%A8/"/>
+      <url>/2024/11/05/2P%E7%B3%BB%E5%88%97%E6%8F%92%E5%A4%B4%E7%AB%AF%E5%AD%90%E4%B8%80%E8%A7%88%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="常用小型号电池常用插头"><a href="#常用小型号电池常用插头" class="headerlink" title="常用小型号电池常用插头"></a>常用小型号电池常用插头</h1><p><img src="https://bu.dusays.com/2024/10/22/6717677247b91.jpg" alt="图片" title="插口"></p><p>以XH2.54端子为例，XH2.54使用2.54毫米（0.1英寸）的间距而得名，通常用于电子设备和电路板上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">XH2.54端子典型的规格参数：</span><br><span class="line">适用线规：AWG.#30 - AWG.#22(建议24WG号线)</span><br><span class="line">额定电压：250V DC/AC</span><br><span class="line">额定电流：3A DC/AC</span><br><span class="line">耐压值：1000V AC</span><br><span class="line">接触电阻：限大20mΩ</span><br><span class="line">绝缘电阻：限小1000MΩ</span><br><span class="line">工作温度：-25℃ - +85℃</span><br><span class="line">包含PIN数：2PIN -12PIN</span><br><span class="line">绝缘体：LCP</span><br><span class="line">接触针：黄铜</span><br></pre></td></tr></table></figure><h1 id="XH2-54组成部分"><a href="#XH2-54组成部分" class="headerlink" title="XH2.54组成部分"></a>XH2.54组成部分</h1><p><img src="https://bu.dusays.com/2024/11/05/672a2bc950f63.png" alt="图片" title="XH2.54组成部分"></p><h2 id="公壳"><a href="#公壳" class="headerlink" title="公壳"></a>公壳</h2><h2 id="母壳"><a href="#母壳" class="headerlink" title="母壳"></a>母壳</h2><h2 id="公端子"><a href="#公端子" class="headerlink" title="公端子"></a>公端子</h2><h2 id="母端子"><a href="#母端子" class="headerlink" title="母端子"></a>母端子</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 小知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小程序-Ⅱ型铁心数据读取程序</title>
       <link href="/2024/10/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E2%85%A1%E5%9E%8B%E9%93%81%E5%BF%83%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%8F%96%E7%A8%8B%E5%BA%8F/"/>
       <url>/2024/10/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E2%85%A1%E5%9E%8B%E9%93%81%E5%BF%83%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%8F%96%E7%A8%8B%E5%BA%8F/</url>
