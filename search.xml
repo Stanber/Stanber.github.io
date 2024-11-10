@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Keil5 编译报各种不明警告</title>
+      <link href="/2024/11/10/Keil5-%E7%BC%96%E8%AF%91%E6%8A%A5%E5%90%84%E7%A7%8D%E4%B8%8D%E6%98%8E%E8%AD%A6%E5%91%8A/"/>
+      <url>/2024/11/10/Keil5-%E7%BC%96%E8%AF%91%E6%8A%A5%E5%90%84%E7%A7%8D%E4%B8%8D%E6%98%8E%E8%AD%A6%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>在使用Keil5编写程序，编译是出现很多的警告，启动文件和库函数文件报错报警告。<br>可以在Keil5魔法棒中C&#x2F;C++进行编译警告的修改。<br><img src="https://bu.dusays.com/2024/11/10/673056acab853.png" alt="图片" title="编译警告"></p><h1 id="实现"><a href="#实现" class="headerlink" title="实现"></a>实现</h1><p><strong>点开魔术棒-&gt;C&#x2F;C++(AC6)-&gt;Wamings(将其内容修改成)AC5-LIKE Wamings</strong><br><img src="https://bu.dusays.com/2024/11/10/673056acbbee7.png" alt="图片" title="警告的修改1"><br><img src="https://bu.dusays.com/2024/11/10/673056acb8f43.png" alt="图片" title="警告的修改2"></p><p><strong>修改完成点击OK，再次编译</strong><br><img src="https://bu.dusays.com/2024/11/10/67305fc3c3b95.png" alt="图片" title="修改后编译"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Keil5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2P系列插头端子一览表</title>
       <link href="/2024/11/05/2P%E7%B3%BB%E5%88%97%E6%8F%92%E5%A4%B4%E7%AB%AF%E5%AD%90%E4%B8%80%E8%A7%88%E8%A1%A8/"/>
       <url>/2024/11/05/2P%E7%B3%BB%E5%88%97%E6%8F%92%E5%A4%B4%E7%AB%AF%E5%AD%90%E4%B8%80%E8%A7%88%E8%A1%A8/</url>
